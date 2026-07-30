@@ -6,8 +6,6 @@ Sistema open source de gestão de liga acadêmica, desenvolvido com base em requ
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.0-brightgreen)
 
----
-
 ## 📋 Sobre o projeto
 
 O ByteHUB nasceu da necessidade real da Liga Acadêmica ByteBuilders de organizar seus processos internos: cadastro de membros, formação de guildas e grupos de projeto, registro de encontros e controle de presença (com regra de frequência mínima para certificação). O projeto também serve como portfólio técnico, aplicando boas práticas de arquitetura back-end Java.
