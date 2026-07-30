@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: bytehub-postgres
+    environment:
+      POSTGRES_DB: bytehub
+      POSTGRES_USER: bytehub_user
+      POSTGRES_PASSWORD: bytehub_pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - bytehub-postgres-data:/var/lib/postgresql/data
+
+volumes:
+  bytehub-postgres-data:
