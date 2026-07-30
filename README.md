@@ -4,7 +4,7 @@ Sistema open source de gestão de liga acadêmica.
 
 ## Tecnologias
 
-Java 21 · Spring Boot 3 · Spring Security · JWT · PostgreSQL · Docker · Swagger
+Java 21 · Spring Boot 4 · Spring Security · JWT · PostgreSQL · Docker · Swagger
 
 ## Status
 
